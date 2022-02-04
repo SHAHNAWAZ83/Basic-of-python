@@ -9,6 +9,6 @@ poem=('''Twinkle, twinkle, little star,
 print(poem)
 
 
-# 2.  To Fing List of Working Directory
+# 2.  To Find List of Working Directory
 import os
 print(os.listdir())
